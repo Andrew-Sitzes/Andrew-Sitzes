@@ -1,9 +1,5 @@
 ### Hi there 👋
 I am Andrew, And I am currently pursuing a career in web development and software engineering. I have a passion for learning and creating new things.
-<!--
-**Andrew-Sitzes/Andrew-Sitzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...a web page for a non profit organization
 - 🌱 I’m currently learning ...how to sharpening JS skills
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://www.linkedin.com/in/andrew-sitzes/
 - 😄 Pronouns: ...him/his
 - ⚡ Fun fact: ...I was a bartender before a web developer
--->
