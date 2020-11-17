@@ -7,5 +7,4 @@ I am Andrew, And I am currently pursuing a career in web development and softwar
 - 🤔 I’m looking for help with ...making games in python
 - 💬 Ask me about ...playing music
 - 📫 How to reach me: ...https://www.linkedin.com/in/andrew-sitzes/
-- 😄 Pronouns: ...him/his
 - ⚡ Fun fact: ...I was a bartender before a web developer
